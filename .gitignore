@@ -1,6 +1,6 @@
 **/__pycache__
 .pytest_cache
 .ipynb_checkpoints
-zoocamp/ny_taxi_postgres_data/
+ny_taxi_postgres_data/
 zoocamp/data/
 *.csv
